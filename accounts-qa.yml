@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to the EazyBank Accounts Service QA APIs"
+  contactDetails:
+    name: "Nasaka Sairam - QA Lead"
+    email: "nasakasairam@eazybank.com"
+  onCallSupport:
+    - (+46) 9876543210
+    - (+46) 8765432109

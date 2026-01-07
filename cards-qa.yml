@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+
+cards:
+  message: "Welcome to the EazyBank Cards Service QA APIs"
+  contactDetails:
+    name: "SSairam Nasaka - QA Lead"
+    email: "sairamnasaka@eazybank.com"
+  onCallSupport:
+    - (+91) 9876543210
+    - (+91) 8765432109

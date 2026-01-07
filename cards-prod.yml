@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+
+cards:
+  message: "Welcome to the EazyBank Cards Service PROD APIs"
+  contactDetails:
+    name: "Channakya Narra - Cards Product Owner"
+    email: "channakyanarra@eazybank.com"
+  onCallSupport:
+    - (+91) 9876543210
+    - (+91) 8765432109

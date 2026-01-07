@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to the EazyBank Loans Service QA APIs"
+  contactDetails:
+    name: "Nasaka Sairam - QA Lead"
+    email: "nasakasairam@eazybank.com"
+  onCallSupport:
+    - (+91) 9876543210
+    - (+91) 8765432109

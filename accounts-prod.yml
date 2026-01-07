@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to the EazyBank Accounts Service PROD APIs"
+  contactDetails:
+    name: "Channakya Narra - Product Owner"
+    email: "channakyanarra@eazybank.com"
+  onCallSupport:
+    - (555) 9876-543
+    - (555) 876-543
