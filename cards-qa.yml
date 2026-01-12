@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "Welcome to the EazyBank Cards Service QA APIs"
+  message: "Welcome to the EazyBank Cards Service QA Test APIs"
   contactDetails:
     name: "Sairam Nasaka - QA Lead"
     email: "sairamnasaka@eazybank.com"
