@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to the EazyBank Loans Service PRODUCTION APIs"
+  message: "Welcome to the EazyBank Loans Service Prod APIs"
   contactDetails:
     name: "Channakya Narra - Product Owner"
     email: "channakyanarra@eazybank.com"
