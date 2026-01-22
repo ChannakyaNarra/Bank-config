@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to our EazyBank Accounts Service localhost default APIs"
+  message: "Welcome to our EazyBank Accounts Service local default APIs"
   contactDetails:
     name: "James Smith - Developer"
     email: "james@eazybank.com"
